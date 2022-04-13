@@ -1,0 +1,182 @@
+{
+  "products" : [
+      {
+          "id": 1,
+          "name": "Adidas UltraBoost 4.0 cookies and cream",
+          "sale": 33,
+          "images": "http://porto03.123corp.com.vn/thumb/270x282/1/data/upload/zz-BB6180-01-2-600x600.jpg",
+          "priceOld": "4,500,000",
+          "priceNew" : "3,000,000",
+          "description": [
+              {
+                  "status": "Còn hàng",
+                  "descriptionDetails": "MỘT ĐÔI GIÀY CHẠY NHẸ, HIỆN ĐẠI CHO MỌI NƠI VÀ MỌI KHOẢNG CÁCH Đôi giày chạy này kết hợp sự thoải mái và hiệu năng cao cho cảm giác chạy tuyệt vời hơn bao giờ hết. Thân giày Primeknit có tính co giãn cao, thoáng khí, ôm khuôn chân khi bạn đang chạy. Đế giữa boost™ tăng cường và đế ngoài STRETCHWEB linh hoạt giúp bước chân linh hoạt và tràn đầy năng lượng.",
+                  "imagesDetails": [
+                    "http://porto03.123corp.com.vn/data/upload/1556328778-zz-BB6180-02-2-600x600.jpg",
+                    "http://porto03.123corp.com.vn/data/upload/1556328778-zz-BB6180-03-2-600x600.jpg",
+                    "http://porto03.123corp.com.vn/data/upload/1556328778-zz-BB6180-04-2-600x600.jpg"
+                  ],
+                  "color": ["31", "32","33"]
+              }
+          ]
+      },
+      {
+          "id": 2,
+          "name": "Silver Porto Headset",
+          "sale": 33,
+          "images": "http://porto03.123corp.com.vn/thumb/270x282/1/data/upload/product-4.jpg",
+          "priceOld": "4,500,000",
+          "priceNew" : "3,000,000",
+          "description": [
+              {
+                  "status": "Còn hàng",
+                  "descriptionDetails": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non.",
+                  "imagesDetails": [
+                    "http://porto03.123corp.com.vn/data/upload/1556328955-product-4.jpg",
+                    "https://static.dosi-in.com/images/detailed/97/dosiin-waat-hoddie-basic-xanh-den-9797897978.jpg",
+                    "https://cf.shopee.vn/file/6579abf6b8f0cb82707ecc96c8529cae_tn",
+                    "https://kidsactclub.com/wp-content/uploads/2021/02/424faedca92c8c538cce4656dcb62637.jpg",
+                    "https://kidsactclub.com/wp-content/uploads/2021/02/424faedca92c8c538cce4656dcb62637.jpg"
+                  ],
+                  "color": ["Black", "White","Blue"]
+              }
+          ]
+      },
+      {
+          "id": 3,
+          "name": "Đồng hồ Adidas",
+          "sale": 33,
+          "images": "http://porto03.123corp.com.vn/thumb/270x282/1/data/upload/wacth-3.png",
+          "priceOld": "4,500,000",
+          "priceNew" : "3,000,000",
+          "description": [
+              {
+                  "status": "Còn hàng",
+                  "descriptionDetails": "Chế độ luyện tậpTheo dõi giấc ngủTính lượng calories tiêu thụTính quãng đường chạyĐo nhịp timĐếm số bước chân",
+                  "imagesDetails": [
+                    "http://porto03.123corp.com.vn/thumb/270x282/1/data/upload/wacth-3.png",
+                    "https://bizweb.dktcdn.net/thumb/large/100/116/615/products/apple-watch-se-44-jpeg.jpg?v=1600437197453",
+                    "https://hoanghamobile.com/Uploads/2021/01/26/apple-watch-see.jpg"
+
+                  ],
+                  "color": ["Yellow", "Red","Blue"]
+              }
+          ]
+      },
+      {
+          "id": 4,
+          "name": "Áo thun",
+          "sale": 33,
+          "images": "http://porto03.123corp.com.vn/thumb/270x282/1/data/upload/product-3.jpg",
+          "priceOld": "4,500,000",
+          "priceNew" : "3,000,000",
+          "description": [
+              {
+                  "status": "Còn hàng",
+                  "descriptionDetails": "MỘT ĐÔI GIÀY CHẠY NHẸ, HIỆN ĐẠI CHO MỌI NƠI VÀ MỌI KHOẢNG CÁCH Đôi giày chạy này kết hợp sự thoải mái và hiệu năng cao cho cảm giác chạy tuyệt vời hơn bao giờ hết. Thân giày Primeknit có tính co giãn cao, thoáng khí, ôm khuôn chân khi bạn đang chạy. Đế giữa boost™ tăng cường và đế ngoài STRETCHWEB linh hoạt giúp bước chân linh hoạt và tràn đầy năng lượng.",
+                  "imagesDetails": [
+                    "http://porto03.123corp.com.vn/thumb/270x282/1/data/upload/product-3.jpg",
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQig8pvqd1kj3RM7NdRToAgrX1EUQHqQhDZS7TBm6Ck5u-9RIYWGvMSqbZagvg&usqp=CAc",
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4GQyIBQCZxpCwaYml14BTq6z9EnJYqX2CNj7jto9aOfgWCl-Va2AhkxWZ1YkN1kOP_UErW4aU&usqp=CAc"
+                  ],
+                  "color": ["Yellow", "Red","Blue"]
+              }
+          ]
+      },
+      {
+          "id": 5,
+          "name": "Áo thun",
+          "sale": 33,
+          "images": "http://porto03.123corp.com.vn/thumb/270x282/1/data/upload/product-3.jpg",
+          "priceOld": "4,500,000",
+          "priceNew" : "3,000,000",
+          "description": [
+              {
+                  "status": "Còn hàng",
+                  "descriptionDetails": "MỘT ĐÔI GIÀY CHẠY NHẸ, HIỆN ĐẠI CHO MỌI NƠI VÀ MỌI KHOẢNG CÁCH Đôi giày chạy này kết hợp sự thoải mái và hiệu năng cao cho cảm giác chạy tuyệt vời hơn bao giờ hết. Thân giày Primeknit có tính co giãn cao, thoáng khí, ôm khuôn chân khi bạn đang chạy. Đế giữa boost™ tăng cường và đế ngoài STRETCHWEB linh hoạt giúp bước chân linh hoạt và tràn đầy năng lượng.",
+                  "imagesDetails": [
+                    "http://porto03.123corp.com.vn/data/upload/1556328955-product-7.jpg",
+                    "http://porto03.123corp.com.vn/data/upload/1556328955-product-4.jpg"
+                  ],
+                  "color": ["Yellow", "Red","Blue"]
+              }
+          ]
+      },
+      {
+        "id": 6,
+        "name": "Áo thun",
+        "sale": 33,
+        "images": "http://porto03.123corp.com.vn/thumb/270x282/1/data/upload/product-3.jpg",
+        "priceOld": "4,500,000",
+        "priceNew" : "3,000,000",
+        "description": [
+            {
+                "status": "Còn hàng",
+                "descriptionDetails": "MỘT ĐÔI GIÀY CHẠY NHẸ, HIỆN ĐẠI CHO MỌI NƠI VÀ MỌI KHOẢNG CÁCH Đôi giày chạy này kết hợp sự thoải mái và hiệu năng cao cho cảm giác chạy tuyệt vời hơn bao giờ hết. Thân giày Primeknit có tính co giãn cao, thoáng khí, ôm khuôn chân khi bạn đang chạy. Đế giữa boost™ tăng cường và đế ngoài STRETCHWEB linh hoạt giúp bước chân linh hoạt và tràn đầy năng lượng.",
+                "imagesDetails": [
+                  "http://porto03.123corp.com.vn/data/upload/1556328955-product-7.jpg",
+                  "http://porto03.123corp.com.vn/data/upload/1556328955-product-4.jpg"
+                ],
+                "color": ["Yellow", "Red","Blue"]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Áo thun",
+        "sale": 33,
+        "images": "http://porto03.123corp.com.vn/thumb/270x282/1/data/upload/product-3.jpg",
+        "priceOld": "4,500,000",
+        "priceNew" : "3,000,000",
+        "description": [
+            {
+                "status": "Còn hàng",
+                "descriptionDetails": "MỘT ĐÔI GIÀY CHẠY NHẸ, HIỆN ĐẠI CHO MỌI NƠI VÀ MỌI KHOẢNG CÁCH Đôi giày chạy này kết hợp sự thoải mái và hiệu năng cao cho cảm giác chạy tuyệt vời hơn bao giờ hết. Thân giày Primeknit có tính co giãn cao, thoáng khí, ôm khuôn chân khi bạn đang chạy. Đế giữa boost™ tăng cường và đế ngoài STRETCHWEB linh hoạt giúp bước chân linh hoạt và tràn đầy năng lượng.",
+                "imagesDetails": [
+                  "http://porto03.123corp.com.vn/data/upload/1556328955-product-7.jpg",
+                  "http://porto03.123corp.com.vn/data/upload/1556328955-product-4.jpg"
+                ],
+                "color": ["Yellow", "Red","Blue"]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Áo thun",
+        "sale": 33,
+        "images": "http://porto03.123corp.com.vn/thumb/270x282/1/data/upload/product-3.jpg",
+        "priceOld": "4,500,000",
+        "priceNew" : "3,000,000",
+        "description": [
+            {
+                "status": "Còn hàng",
+                "descriptionDetails": "MỘT ĐÔI GIÀY CHẠY NHẸ, HIỆN ĐẠI CHO MỌI NƠI VÀ MỌI KHOẢNG CÁCH Đôi giày chạy này kết hợp sự thoải mái và hiệu năng cao cho cảm giác chạy tuyệt vời hơn bao giờ hết. Thân giày Primeknit có tính co giãn cao, thoáng khí, ôm khuôn chân khi bạn đang chạy. Đế giữa boost™ tăng cường và đế ngoài STRETCHWEB linh hoạt giúp bước chân linh hoạt và tràn đầy năng lượng.",
+                "imagesDetails": [
+                  "http://porto03.123corp.com.vn/data/upload/1556328955-product-7.jpg",
+                  "http://porto03.123corp.com.vn/data/upload/1556328955-product-4.jpg"
+                ],
+                "color": ["Yellow", "Red","Blue"]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Áo thun",
+        "sale": 33,
+        "images": "http://porto03.123corp.com.vn/thumb/270x282/1/data/upload/product-3.jpg",
+        "priceOld": "4,500,000",
+        "priceNew" : "3,000,000",
+        "description": [
+            {
+                "status": "Còn hàng",
+                "descriptionDetails": "MỘT ĐÔI GIÀY CHẠY NHẸ, HIỆN ĐẠI CHO MỌI NƠI VÀ MỌI KHOẢNG CÁCH Đôi giày chạy này kết hợp sự thoải mái và hiệu năng cao cho cảm giác chạy tuyệt vời hơn bao giờ hết. Thân giày Primeknit có tính co giãn cao, thoáng khí, ôm khuôn chân khi bạn đang chạy. Đế giữa boost™ tăng cường và đế ngoài STRETCHWEB linh hoạt giúp bước chân linh hoạt và tràn đầy năng lượng.",
+                "imagesDetails": [
+                  "http://porto03.123corp.com.vn/data/upload/1556328955-product-7.jpg",
+                  "http://porto03.123corp.com.vn/data/upload/1556328955-product-4.jpg"
+                ],
+                "color": ["Yellow", "Red","Blue"]
+            }
+        ]
+    }
+  ]
+}

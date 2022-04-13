@@ -1,0 +1,148 @@
+:root {
+    --bk-cl: #0e0e0e;
+    --cl-text: #fff;
+    --cl-main:#4a4a4a;
+    --border: #3333;
+    --bk-main: #f2f2f2;
+    --bk-footer:#1d1d1d;
+    --cl-footer: #90969a;
+    --cl-hover: #e6e3df;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body {
+    width: 100%;
+    height: 100%;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+@keyframes headerNotify{
+    from {
+        opacity: 0;
+        transform: scale(0);
+    }
+    to{
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    cursor: pointer;
+    outline: none;
+}
+
+
+@keyframes hoverUp{
+    from {
+        transform: translateY(0);
+    }
+    to{
+       transform: translateY(-10px);
+    }
+}
+
+/* LOADING */
+.loadding {
+    width: 100%;
+    height: 100%;   
+    display: none;
+}
+
+div.loadding-active {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.4);
+    z-index: 100;
+    display: block;
+}
+.lds-ripple {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    right: -50%;
+    top: 50%;
+
+  }
+  .lds-ripple div {
+    position: absolute;
+    border: 4px solid #000000;
+    opacity: 1;
+    border-radius: 50%;
+    animation: lds-ripple 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+  }
+  .lds-ripple div:nth-child(2) {
+    animation-delay: -0.5s;
+  }
+  @keyframes lds-ripple {
+    0% {
+      top: 36px;
+      left: 36px;
+      width: 0;
+      height: 0;
+      opacity: 1;
+    }
+    100% {
+      top: 0px;
+      left: 0px;
+      width: 72px;
+      height: 72px;
+      opacity: 0;
+    }
+  }
+  
+
+@keyframes moveInTop {
+    0% {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    80% {
+        transform: translateY(-5px);
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.owl-nav.disabled {
+    /* display: block!important; */
+    font-size: 80px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+}
+.owl-next {
+    position: absolute;
+    right: 0px;
+}
+
+.owl-dots {
+    text-align: center;
+}
+.owl-dot {
+    width: 20px;
+    height: 20px;
+    background-color: #fff!important;
+    border-radius: 50%;
+    border: 2px solid var(--border)!important;
+    margin-right: 5px!important;
+}
+.owl-dot.active {
+    border: 2px solid rgba(0,0,0,0.9)!important;
+}
